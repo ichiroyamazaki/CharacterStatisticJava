@@ -1,0 +1,2 @@
+# CharacterStatisticJava
+Based on Java
